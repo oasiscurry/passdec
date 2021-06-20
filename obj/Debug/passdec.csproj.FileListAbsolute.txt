@@ -1,0 +1,9 @@
+G:\develop_wk\passdec\bin\Debug\passdec.exe.config
+G:\develop_wk\passdec\bin\Debug\passdec.exe
+G:\develop_wk\passdec\bin\Debug\passdec.pdb
+G:\develop_wk\passdec\obj\Debug\passdec.Properties.Resources.resources
+G:\develop_wk\passdec\obj\Debug\passdec.csproj.GenerateResource.cache
+G:\develop_wk\passdec\obj\Debug\passdec.csproj.CoreCompileInputs.cache
+G:\develop_wk\passdec\obj\Debug\passdec.exe
+G:\develop_wk\passdec\obj\Debug\passdec.pdb
+G:\develop_wk\passdec\obj\Debug\passdec.passdec.resources
